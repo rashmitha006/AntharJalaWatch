@@ -1,0 +1,11 @@
+package com.kutira.kushala
+
+import android.content.Context
+import androidx.appcompat.app.AppCompatActivity
+import com.kutira.kushala.utils.LocaleHelper
+
+open class BaseActivity : AppCompatActivity() {
+    override fun attachBaseContext(newBase: Context) {
+        super.attachBaseContext(LocaleHelper.onAttach(newBase))
+    }
+}

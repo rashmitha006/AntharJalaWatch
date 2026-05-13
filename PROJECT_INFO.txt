@@ -1,0 +1,29 @@
+
+ANTHAR-JALA WATCH - ANDROID PROJECT
+
+Project Title:
+Android App Development using GenAI - Anthar-Jala Watch (Natural Resources)
+
+Features:
+1. Borewell Log Entry
+2. Water Depth Monitoring
+3. Recharge Guide
+4. Water Alerts
+5. Community Water Map
+
+How to Run:
+1. Open Android Studio
+2. Click Open Project
+3. Select this extracted folder
+4. Wait for Gradle Sync
+5. Run on Emulator or Android Device
+
+Technology:
+- Kotlin
+- Android Studio
+- Material UI
+
+Future Scope:
+- Google Maps Integration
+- Firebase Database
+- Heatmap Visualization

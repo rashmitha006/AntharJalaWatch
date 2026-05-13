@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ಕುಟೀರ-ಕುಶಲ</string>
+    <string name="tagline">ಹರ್ ಹಾಥ್ ಏಕ್ ಉದ್ಯೋಗ್</string>
+    <string name="login">ಲಾಗಿನ್</string>
+    <string name="register">ನೋಂದಣಿ</string>
+    <string name="email">ಇಮೇಲ್</string>
+    <string name="password">ಪಾಸ್ವರ್ಡ್</string>
+    <string name="full_name">ಪೂರ್ಣ ಹೆಸರು</string>
+    <string name="mobile_number">ಮೊಬೈಲ್ ಸಂಖ್ಯೆ</string>
+    <string name="role">ಪಾತ್ರ</string>
+    <string name="seller">ಮಾರಾಟಗಾರ</string>
+    <string name="buyer">ಖರೀದಿದಾರ</string>
+    <string name="state">ರಾಜ್ಯ</string>
+    <string name="district">ಜಿಲ್ಲೆ</string>
+    <string name="village">ಗ್ರಾಮ</string>
+    <string name="forgot_password">ಪಾಸ್ವರ್ಡ್ ಮರೆತಿರುವಿರಾ?</string>
+    <string name="dont_have_account">ಖಾತೆ ಇಲ್ಲವೇ? ನೋಂದಾಯಿಸಿ</string>
+    <string name="already_have_account">ಈಗಾಗಲೇ ಖಾತೆ ಹೊಂದಿದ್ದೀರಾ? ಲಾಗಿನ್ ಮಾಡಿ</string>
+
+    <string name="home">ಮನೆ</string>
+    <string name="my_products">ನನ್ನ ಉತ್ಪನ್ನಗಳು</string>
+    <string name="capacity">ಸಾಮರ್ಥ್ಯ</string>
+    <string name="profile">ಪ್ರೊಫೈಲ್</string>
+    <string name="discover">ಅನ್ವೇಷಿಸಿ</string>
+    <string name="search">ಹುಡುಕಿ</string>
+    <string name="saved">ಉಳಿಸಲಾಗಿದೆ</string>
+
+    <string name="add_product">ಉತ್ಪನ್ನವನ್ನು ಸೇರಿಸಿ</string>
+    <string name="product_name">ಉತ್ಪನ್ನದ ಹೆಸರು</string>
+    <string name="category">ವರ್ಗ</string>
+    <string name="description">ವಿವರಣೆ</string>
+    <string name="price">ಬೆಲೆ</string>
+    <string name="min_order_qty">ಕನಿಷ್ಠ ಆದೇಶದ ಪ್ರಮಾಣ</string>
+    <string name="unit">ಘಟಕ</string>
+    <string name="production_time">ಉತ್ಪಾದನಾ ಸಮಯ (ದಿನಗಳು)</string>
+
+    <string name="update_capacity">ಸಾಮರ್ಥ್ಯವನ್ನು ನವೀಕರಿಸಿ</string>
+    <string name="available_this_week">ಈ ವಾರ ಲಭ್ಯವಿದೆ</string>
+    <string name="daily_capacity">ದೈನಂದಿನ ಉತ್ಪಾದನಾ ಸಾಮರ್ಥ್ಯ</string>
+    <string name="lead_time">ವಿತರಣಾ ಸಮಯ</string>
+    <string name="advance_booking">ಮುಂಗಡ ಕಾಯ್ದಿರಿಸುವಿಕೆಯನ್ನು ಸ್ವೀಕರಿಸುತ್ತೀರಾ?</string>
+</resources>

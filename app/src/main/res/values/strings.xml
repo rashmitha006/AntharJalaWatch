@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Kutira-Kushala</string>
+    <string name="tagline">Har Haath Ek Udyog</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="role">Role</string>
+    <string name="seller">Seller</string>
+    <string name="buyer">Buyer</string>
+    <string name="state">State</string>
+    <string name="district">District</string>
+    <string name="village">Village</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_account">Don\'t have an account? Register</string>
+    <string name="already_have_account">Already have an account? Login</string>
+
+    <string name="home">Home</string>
+    <string name="my_products">My Products</string>
+    <string name="capacity">Capacity</string>
+    <string name="profile">Profile</string>
+    <string name="discover">Discover</string>
+    <string name="search">Search</string>
+    <string name="saved">Saved</string>
+
+    <string name="add_product">Add Product</string>
+    <string name="product_name">Product Name</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="min_order_qty">Min Order Qty</string>
+    <string name="unit">Unit</string>
+    <string name="production_time">Production Time (days)</string>
+
+    <string name="update_capacity">Update Capacity</string>
+    <string name="available_this_week">Available This Week</string>
+    <string name="daily_capacity">Daily Production Capacity</string>
+    <string name="lead_time">Delivery Lead Time</string>
+    <string name="advance_booking">Accepts Advance Booking?</string>
+</resources>
